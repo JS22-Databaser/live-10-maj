@@ -6,7 +6,6 @@ Modell för att lägga en order:
 
 ```javascript
 Skicka med i body
-
 {
 	"order": [
 			{

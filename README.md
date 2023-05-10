@@ -4,7 +4,7 @@ ER-diagram: https://www.figma.com/file/xrpWsPiBQDDqsADI1eKuqo/Untitled?type=whit
 
 Modell för att lägga en order:
 
-```
+```javascript
 Skicka med i body
 
 {
